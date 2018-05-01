@@ -1,0 +1,28 @@
+{
+  "name": "js-rsa",
+  "version": "1.0.0",
+  "description": " a Javascript encryption tool.",
+  "main": "./dist/rsa.min.js",
+  "scripts": {
+    "test": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jardenliu/js-rsa.git"
+  },
+  "keywords": [
+    "javascript",
+    "wechat",
+    "rsa",
+    "wx",
+    "miniapp",
+    "js",
+    "js-rsa"
+  ],
+  "author": "jardenliu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jardenliu/js-rsa/issues"
+  },
+  "homepage": "https://github.com/jardenliu/js-rsa#readme"
+}
